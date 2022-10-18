@@ -1,1 +1,3 @@
 # Cryptocurrencies
+
+Accountability Accounting is interested in offering cryptocurrency investment portfolios for their clients. This report offers an overview of which currencies are trading and a potential classification system for the assests. Machine learning  using a clustering algorithm was used to classify the data into 3 groups. The resulting data shows which currencies are currently trading and which of the 3 classes it belongs to. The data was preprocessed to be able to fit into machine learning models. PCA (principal component analysis) was used to reduce the data dimensions and K-Means was used in grouping the classes of data. Unsupervised Machine Learning was used on the cryptocurrency data as the outcome of the clustering was not known beforehand. 
